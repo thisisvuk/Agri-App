@@ -1,0 +1,748 @@
+<resources>
+    <string name="app_name" translatable="false">Agri App</string>
+    <string name="english" translatable="false">English</string>
+    <string name="marathi" translatable="false">मराठी</string>
+    <string name="hindi" translatable="false">हिंदी</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="continue1">Continue</string>
+
+    <string-array name="districtArray">
+        <item>Anantapur, Andhra Pradesh</item>
+        <item>Chittoor, Andhra Pradesh</item>
+        <item>East Godavari, Andhra Pradesh</item>
+        <item>Guntur, Andhra Pradesh</item>
+        <item>Kadapa, Andhra Pradesh</item>
+        <item>Krishna, Andhra Pradesh</item>
+        <item>Kurnool, Andhra Pradesh</item>
+        <item>Nellore, Andhra Pradesh</item>
+        <item>Prakasam, Andhra Pradesh</item>
+        <item>Srikakulam, Andhra Pradesh</item>
+        <item>Visakhapatnam, Andhra Pradesh</item>
+        <item>Vizianagaram, Andhra Pradesh</item>
+        <item>West Godavari, Andhra Pradesh</item>
+        <item>Anjaw, Arunachal Pradesh</item>
+        <item>Central Siang, Arunachal Pradesh</item>
+        <item>Changlang, Arunachal Pradesh</item>
+        <item>Dibang Valley, Arunachal Pradesh</item>
+        <item>East Kameng, Arunachal Pradesh</item>
+        <item>East Siang, Arunachal Pradesh</item>
+        <item>Kamle, Arunachal Pradesh</item>
+        <item>Kra Daadi, Arunachal Pradesh</item>
+        <item>Kurung Kumey, Arunachal Pradesh</item>
+        <item>Lepa Rada, Arunachal Pradesh</item>
+        <item>Lohit, Arunachal Pradesh</item>
+        <item>Longding, Arunachal Pradesh</item>
+        <item>Lower Dibang Valley, Arunachal Pradesh</item>
+        <item>Lower Siang, Arunachal Pradesh</item>
+        <item>Lower Subansiri, Arunachal Pradesh</item>
+        <item>Namsai, Arunachal Pradesh</item>
+        <item>Pakke Kessang, Arunachal Pradesh</item>
+        <item>Papum Pare, Arunachal Pradesh</item>
+        <item>Shi Yomi, Arunachal Pradesh</item>
+        <item>Tawang, Arunachal Pradesh</item>
+        <item>Tirap, Arunachal Pradesh</item>
+        <item>Upper Siang, Arunachal Pradesh</item>
+        <item>Upper Subansiri, Arunachal Pradesh</item>
+        <item>West Kameng, Arunachal Pradesh</item>
+        <item>West Siang, Arunachal Pradesh</item>
+        <item>Bajali, Assam</item>
+        <item>Baksa, Assam</item>
+        <item>Barpeta, Assam</item>
+        <item>Biswanath, Assam</item>
+        <item>Bongaigaon, Assam</item>
+        <item>Cachar, Assam</item>
+        <item>Charaideo, Assam</item>
+        <item>Chirang, Assam</item>
+        <item>Darrang, Assam</item>
+        <item>Dhemaji, Assam</item>
+        <item>Dhubri, Assam</item>
+        <item>Dibrugarh, Assam</item>
+        <item>Dima Hasao, Assam</item>
+        <item>Goalpara, Assam</item>
+        <item>Golaghat, Assam</item>
+        <item>Hailakandi, Assam</item>
+        <item>Hojai, Assam</item>
+        <item>Jorhat, Assam</item>
+        <item>Kamrup, Assam</item>
+        <item>Kamrup Metropolitan, Assam</item>
+        <item>Karbi Anglong, Assam</item>
+        <item>Karimganj, Assam</item>
+        <item>Kokrajhar, Assam</item>
+        <item>Lakhimpur, Assam</item>
+        <item>Majuli, Assam</item>
+        <item>Morigaon, Assam</item>
+        <item>Nagaon, Assam</item>
+        <item>Nalbari, Assam</item>
+        <item>Sivasagar, Assam</item>
+        <item>Sonitpur, Assam</item>
+        <item>South Salmara-Mankachar, Assam</item>
+        <item>Tinsukia, Assam</item>
+        <item>Udalguri, Assam</item>
+        <item>West Karbi Anglong, Assam</item>
+        <item>Araria, Bihar</item>
+        <item>Arwal, Bihar</item>
+        <item>Aurangabad, Bihar</item>
+        <item>Banka, Bihar</item>
+        <item>Begusarai, Bihar</item>
+        <item>Bhagalpur, Bihar</item>
+        <item>Bhojpur, Bihar</item>
+        <item>Buxar, Bihar</item>
+        <item>Darbhanga, Bihar</item>
+        <item>East Champaran, Bihar</item>
+        <item>Gaya, Bihar</item>
+        <item>Gopalganj, Bihar</item>
+        <item>Jamui, Bihar</item>
+        <item>Jehanabad, Bihar</item>
+        <item>Kaimur, Bihar</item>
+        <item>Katihar, Bihar</item>
+        <item>Khagaria, Bihar</item>
+        <item>Kishanganj, Bihar</item>
+        <item>Lakhisarai, Bihar</item>
+        <item>Madhepura, Bihar</item>
+        <item>Madhubani, Bihar</item>
+        <item>Munger, Bihar</item>
+        <item>Muzaffarpur, Bihar</item>
+        <item>Nalanda, Bihar</item>
+        <item>Nawada, Bihar</item>
+        <item>Patna, Bihar</item>
+        <item>Purnia, Bihar</item>
+        <item>Rohtas, Bihar</item>
+        <item>Saharsa, Bihar</item>
+        <item>Samastipur, Bihar</item>
+        <item>Saran, Bihar</item>
+        <item>Sheikhpura, Bihar</item>
+        <item>Sheohar, Bihar</item>
+        <item>Sitamarhi, Bihar</item>
+        <item>Siwan, Bihar</item>
+        <item>Supaul, Bihar</item>
+        <item>Vaishali, Bihar</item>
+        <item>West Champaran, Bihar</item>
+        <item>Chandigarh, Chandigarh</item>
+        <item>Balod, Chhattisgarh</item>
+        <item>Baloda Bazar, Chhattisgarh</item>
+        <item>Balrampur, Chhattisgarh</item>
+        <item>Bastar, Chhattisgarh</item>
+        <item>Bemetara, Chhattisgarh</item>
+        <item>Bijapur, Chhattisgarh</item>
+        <item>Bilaspur, Chhattisgarh</item>
+        <item>Dantewada, Chhattisgarh</item>
+        <item>Dhamtari, Chhattisgarh</item>
+        <item>Durg, Chhattisgarh</item>
+        <item>Gariaband, Chhattisgarh</item>
+        <item>Gaurela Pendra Marwahi, Chhattisgarh</item>
+        <item>Janjgir Champa, Chhattisgarh</item>
+        <item>Jashpur, Chhattisgarh</item>
+        <item>Kabirdham, Chhattisgarh</item>
+        <item>Kanker, Chhattisgarh</item>
+        <item>Kondagaon, Chhattisgarh</item>
+        <item>Korba, Chhattisgarh</item>
+        <item>Koriya, Chhattisgarh</item>
+        <item>Mahasamund, Chhattisgarh</item>
+        <item>Mungeli, Chhattisgarh</item>
+        <item>Narayanpur, Chhattisgarh</item>
+        <item>Raigarh, Chhattisgarh</item>
+        <item>Raipur, Chhattisgarh</item>
+        <item>Rajnandgaon, Chhattisgarh</item>
+        <item>Sukma, Chhattisgarh</item>
+        <item>Surajpur, Chhattisgarh</item>
+        <item>Surguja, Chhattisgarh</item>
+        <item>Central Delhi, Delhi</item>
+        <item>East Delhi, Delhi</item>
+        <item>New Delhi, Delhi</item>
+        <item>North Delhi, Delhi</item>
+        <item>North East Delhi, Delhi</item>
+        <item>North West Delhi, Delhi</item>
+        <item>Shahdara, Delhi</item>
+        <item>South Delhi, Delhi</item>
+        <item>South East Delhi, Delhi</item>
+        <item>South West Delhi, Delhi</item>
+        <item>West Delhi, Delhi</item>
+        <item>North Goa, Goa</item>
+        <item>South Goa, Goa</item>
+        <item>Ahmedabad, Gujarat</item>
+        <item>Amreli, Gujarat</item>
+        <item>Anand, Gujarat</item>
+        <item>Aravalli, Gujarat</item>
+        <item>Banaskantha, Gujarat</item>
+        <item>Bharuch, Gujarat</item>
+        <item>Bhavnagar, Gujarat</item>
+        <item>Botad, Gujarat</item>
+        <item>Chhota Udaipur, Gujarat</item>
+        <item>Dahod, Gujarat</item>
+        <item>Dang, Gujarat</item>
+        <item>Devbhoomi Dwarka, Gujarat</item>
+        <item>Gandhinagar, Gujarat</item>
+        <item>Gir Somnath, Gujarat</item>
+        <item>Jamnagar, Gujarat</item>
+        <item>Junagadh, Gujarat</item>
+        <item>Kheda, Gujarat</item>
+        <item>Kutch, Gujarat</item>
+        <item>Mahisagar, Gujarat</item>
+        <item>Mehsana, Gujarat</item>
+        <item>Morbi, Gujarat</item>
+        <item>Narmada, Gujarat</item>
+        <item>Navsari, Gujarat</item>
+        <item>Panchmahal, Gujarat</item>
+        <item>Patan, Gujarat</item>
+        <item>Porbandar, Gujarat</item>
+        <item>Rajkot, Gujarat</item>
+        <item>Sabarkantha, Gujarat</item>
+        <item>Surat, Gujarat</item>
+        <item>Surendranagar, Gujarat</item>
+        <item>Tapi, Gujarat</item>
+        <item>Vadodara, Gujarat</item>
+        <item>Valsad, Gujarat</item>
+        <item>Ambala, Haryana</item>
+        <item>Bhiwani, Haryana</item>
+        <item>Charkhi Dadri, Haryana</item>
+        <item>Faridabad, Haryana</item>
+        <item>Fatehabad, Haryana</item>
+        <item>Gurugram, Haryana</item>
+        <item>Hisar, Haryana</item>
+        <item>Jhajjar, Haryana</item>
+        <item>Jind, Haryana</item>
+        <item>Kaithal, Haryana</item>
+        <item>Karnal, Haryana</item>
+        <item>Kurukshetra, Haryana</item>
+        <item>Mahendragarh, Haryana</item>
+        <item>Mewat, Haryana</item>
+        <item>Palwal, Haryana</item>
+        <item>Panchkula, Haryana</item>
+        <item>Panipat, Haryana</item>
+        <item>Rewari, Haryana</item>
+        <item>Rohtak, Haryana</item>
+        <item>Sirsa, Haryana</item>
+        <item>Sonipat, Haryana</item>
+        <item>Yamunanagar, Haryana</item>
+        <item>Bilaspur, Himachal Pradesh</item>
+        <item>Chamba, Himachal Pradesh</item>
+        <item>Hamirpur, Himachal Pradesh</item>
+        <item>Kangra, Himachal Pradesh</item>
+        <item>Kinnaur, Himachal Pradesh</item>
+        <item>Kullu, Himachal Pradesh</item>
+        <item>Lahaul Spiti, Himachal Pradesh</item>
+        <item>Mandi, Himachal Pradesh</item>
+        <item>Shimla, Himachal Pradesh</item>
+        <item>Sirmaur, Himachal Pradesh</item>
+        <item>Solan, Himachal Pradesh</item>
+        <item>Una, Himachal Pradesh</item>
+        <item>Anantnag, Jammu Kashmir</item>
+        <item>Bandipora, Jammu Kashmir</item>
+        <item>Baramulla, Jammu Kashmir</item>
+        <item>Budgam, Jammu Kashmir</item>
+        <item>Doda, Jammu Kashmir</item>
+        <item>Ganderbal, Jammu Kashmir</item>
+        <item>Jammu, Jammu Kashmir</item>
+        <item>Kathua, Jammu Kashmir</item>
+        <item>Kishtwar, Jammu Kashmir</item>
+        <item>Kulgam, Jammu Kashmir</item>
+        <item>Kupwara, Jammu Kashmir</item>
+        <item>Poonch, Jammu Kashmir</item>
+        <item>Pulwama, Jammu Kashmir</item>
+        <item>Rajouri, Jammu Kashmir</item>
+        <item>Ramban, Jammu Kashmir</item>
+        <item>Reasi, Jammu Kashmir</item>
+        <item>Samba, Jammu Kashmir</item>
+        <item>Shopian, Jammu Kashmir</item>
+        <item>Srinagar, Jammu Kashmir</item>
+        <item>Udhampur, Jammu Kashmir</item>
+        <item>Bokaro, Jharkhand</item>
+        <item>Chatra, Jharkhand</item>
+        <item>Deoghar, Jharkhand</item>
+        <item>Dhanbad, Jharkhand</item>
+        <item>Dumka, Jharkhand</item>
+        <item>East Singhbhum, Jharkhand</item>
+        <item>Garhwa, Jharkhand</item>
+        <item>Giridih, Jharkhand</item>
+        <item>Godda, Jharkhand</item>
+        <item>Gumla, Jharkhand</item>
+        <item>Hazaribagh, Jharkhand</item>
+        <item>Jamtara, Jharkhand</item>
+        <item>Khunti, Jharkhand</item>
+        <item>Koderma, Jharkhand</item>
+        <item>Latehar, Jharkhand</item>
+        <item>Lohardaga, Jharkhand</item>
+        <item>Pakur, Jharkhand</item>
+        <item>Palamu, Jharkhand</item>
+        <item>Ramgarh, Jharkhand</item>
+        <item>Ranchi, Jharkhand</item>
+        <item>Sahebganj, Jharkhand</item>
+        <item>Seraikela Kharsawan, Jharkhand</item>
+        <item>Simdega, Jharkhand</item>
+        <item>West Singhbhum, Jharkhand</item>
+        <item>Bagalkot, Karnataka</item>
+        <item>Bangalore Rural, Karnataka</item>
+        <item>Bangalore Urban, Karnataka</item>
+        <item>Belgaum, Karnataka</item>
+        <item>Bellary, Karnataka</item>
+        <item>Bidar, Karnataka</item>
+        <item>Chamarajanagar, Karnataka</item>
+        <item>Chikkaballapur, Karnataka</item>
+        <item>Chikkamagaluru, Karnataka</item>
+        <item>Chitradurga, Karnataka</item>
+        <item>Dakshina Kannada, Karnataka</item>
+        <item>Davanagere, Karnataka</item>
+        <item>Dharwad, Karnataka</item>
+        <item>Gadag, Karnataka</item>
+        <item>Gulbarga, Karnataka</item>
+        <item>Hassan, Karnataka</item>
+        <item>Haveri, Karnataka</item>
+        <item>Kodagu, Karnataka</item>
+        <item>Kolar, Karnataka</item>
+        <item>Koppal, Karnataka</item>
+        <item>Mandya, Karnataka</item>
+        <item>Mysore, Karnataka</item>
+        <item>Raichur, Karnataka</item>
+        <item>Ramanagara, Karnataka</item>
+        <item>Shimoga, Karnataka</item>
+        <item>Tumkur, Karnataka</item>
+        <item>Udupi, Karnataka</item>
+        <item>Uttara Kannada, Karnataka</item>
+        <item>Vijayanagara, Karnataka</item>
+        <item>Vijayapura , Karnataka</item>
+        <item>Yadgir, Karnataka</item>
+        <item>Alappuzha, Kerala</item>
+        <item>Ernakulam, Kerala</item>
+        <item>Idukki, Kerala</item>
+        <item>Kannur, Kerala</item>
+        <item>Kasaragod, Kerala</item>
+        <item>Kollam, Kerala</item>
+        <item>Kottayam, Kerala</item>
+        <item>Kozhikode, Kerala</item>
+        <item>Malappuram, Kerala</item>
+        <item>Palakkad, Kerala</item>
+        <item>Pathanamthitta, Kerala</item>
+        <item>Thiruvananthapuram, Kerala</item>
+        <item>Thrissur, Kerala</item>
+        <item>Wayanad, Kerala</item>
+        <item>Kargil, Ladakh</item>
+        <item>Leh, Ladakh</item>
+        <item>Lakshadweep, Lakshadweep</item>
+        <item>Agar Malwa, Madhya Pradesh</item>
+        <item>Alirajpur, Madhya Pradesh</item>
+        <item>Anuppur, Madhya Pradesh</item>
+        <item>Ashoknagar, Madhya Pradesh</item>
+        <item>Balaghat, Madhya Pradesh</item>
+        <item>Barwani, Madhya Pradesh</item>
+        <item>Betul, Madhya Pradesh</item>
+        <item>Bhind, Madhya Pradesh</item>
+        <item>Bhopal, Madhya Pradesh</item>
+        <item>Burhanpur, Madhya Pradesh</item>
+        <item>Chachaura, Madhya Pradesh</item>
+        <item>Chhatarpur, Madhya Pradesh</item>
+        <item>Chhindwara, Madhya Pradesh</item>
+        <item>Damoh, Madhya Pradesh</item>
+        <item>Datia, Madhya Pradesh</item>
+        <item>Dewas, Madhya Pradesh</item>
+        <item>Dhar, Madhya Pradesh</item>
+        <item>Dindori, Madhya Pradesh</item>
+        <item>Guna, Madhya Pradesh</item>
+        <item>Gwalior, Madhya Pradesh</item>
+        <item>Harda, Madhya Pradesh</item>
+        <item>Hoshangabad, Madhya Pradesh</item>
+        <item>Indore, Madhya Pradesh</item>
+        <item>Jabalpur, Madhya Pradesh</item>
+        <item>Jhabua, Madhya Pradesh</item>
+        <item>Katni, Madhya Pradesh</item>
+        <item>Khandwa, Madhya Pradesh</item>
+        <item>Khargone, Madhya Pradesh</item>
+        <item>Maihar, Madhya Pradesh</item>
+        <item>Mandla, Madhya Pradesh</item>
+        <item>Mandsaur, Madhya Pradesh</item>
+        <item>Morena, Madhya Pradesh</item>
+        <item>Nagda, Madhya Pradesh</item>
+        <item>Narsinghpur, Madhya Pradesh</item>
+        <item>Neemuch, Madhya Pradesh</item>
+        <item>Niwari, Madhya Pradesh</item>
+        <item>Panna, Madhya Pradesh</item>
+        <item>Raisen, Madhya Pradesh</item>
+        <item>Rajgarh, Madhya Pradesh</item>
+        <item>Ratlam, Madhya Pradesh</item>
+        <item>Rewa, Madhya Pradesh</item>
+        <item>Sagar, Madhya Pradesh</item>
+        <item>Satna, Madhya Pradesh</item>
+        <item>Sehore, Madhya Pradesh</item>
+        <item>Seoni, Madhya Pradesh</item>
+        <item>Shahdol, Madhya Pradesh</item>
+        <item>Shajapur, Madhya Pradesh</item>
+        <item>Sheopur, Madhya Pradesh</item>
+        <item>Shivpuri, Madhya Pradesh</item>
+        <item>Sidhi, Madhya Pradesh</item>
+        <item>Singrauli, Madhya Pradesh</item>
+        <item>Tikamgarh, Madhya Pradesh</item>
+        <item>Ujjain, Madhya Pradesh</item>
+        <item>Umaria, Madhya Pradesh</item>
+        <item>Vidisha, Madhya Pradesh</item>
+        <item>Ahmednagar, Maharashtra</item>
+        <item>Akola, Maharashtra</item>
+        <item>Amravati, Maharashtra</item>
+        <item>Aurangabad, Maharashtra</item>
+        <item>Beed, Maharashtra</item>
+        <item>Bhandara, Maharashtra</item>
+        <item>Buldhana, Maharashtra</item>
+        <item>Chandrapur, Maharashtra</item>
+        <item>Dhule, Maharashtra</item>
+        <item>Gadchiroli, Maharashtra</item>
+        <item>Gondia, Maharashtra</item>
+        <item>Hingoli, Maharashtra</item>
+        <item>Jalgaon, Maharashtra</item>
+        <item>Jalna, Maharashtra</item>
+        <item>Kolhapur, Maharashtra</item>
+        <item>Latur, Maharashtra</item>
+        <item>Mumbai City, Maharashtra</item>
+        <item>Mumbai Suburban, Maharashtra</item>
+        <item>Nagpur, Maharashtra</item>
+        <item>Nanded, Maharashtra</item>
+        <item>Nandurbar, Maharashtra</item>
+        <item>Nashik, Maharashtra</item>
+        <item>Osmanabad, Maharashtra</item>
+        <item>Palghar, Maharashtra</item>
+        <item>Parbhani, Maharashtra</item>
+        <item>Pune, Maharashtra</item>
+        <item>Raigad, Maharashtra</item>
+        <item>Ratnagiri, Maharashtra</item>
+        <item>Sangli, Maharashtra</item>
+        <item>Satara, Maharashtra</item>
+        <item>Sindhudurg, Maharashtra</item>
+        <item>Solapur, Maharashtra</item>
+        <item>Thane, Maharashtra</item>
+        <item>Wardha, Maharashtra</item>
+        <item>Washim, Maharashtra</item>
+        <item>Yavatmal, Maharashtra</item>
+        <item>Bishnupur, Manipur</item>
+        <item>Chandel, Manipur</item>
+        <item>Churachandpur, Manipur</item>
+        <item>Imphal East, Manipur</item>
+        <item>Imphal West, Manipur</item>
+        <item>Jiribam, Manipur</item>
+        <item>Kakching, Manipur</item>
+        <item>Kamjong, Manipur</item>
+        <item>Kangpokpi, Manipur</item>
+        <item>Noney, Manipur</item>
+        <item>Pherzawl, Manipur</item>
+        <item>Senapati, Manipur</item>
+        <item>Tamenglong, Manipur</item>
+        <item>Tengnoupal, Manipur</item>
+        <item>Thoubal, Manipur</item>
+        <item>Ukhrul, Manipur</item>
+        <item>East Garo Hills, Meghalaya</item>
+        <item>East Jaintia Hills, Meghalaya</item>
+        <item>East Khasi Hills, Meghalaya</item>
+        <item>North Garo Hills, Meghalaya</item>
+        <item>Ri Bhoi, Meghalaya</item>
+        <item>South Garo Hills, Meghalaya</item>
+        <item>South West Garo Hills, Meghalaya</item>
+        <item>South West Khasi Hills, Meghalaya</item>
+        <item>West Garo Hills, Meghalaya</item>
+        <item>West Jaintia Hills, Meghalaya</item>
+        <item>West Khasi Hills, Meghalaya</item>
+        <item>Aizawl, Mizoram</item>
+        <item>Champhai, Mizoram</item>
+        <item>Hnahthial, Mizoram</item>
+        <item>Kolasib, Mizoram</item>
+        <item>Khawzawl, Mizoram</item>
+        <item>Lawngtlai, Mizoram</item>
+        <item>Lunglei, Mizoram</item>
+        <item>Mamit, Mizoram</item>
+        <item>Saiha, Mizoram</item>
+        <item>Serchhip, Mizoram</item>
+        <item>Saitual, Mizoram</item>
+        <item>Dimapur, Nagaland</item>
+        <item>Kiphire, Nagaland</item>
+        <item>Kohima, Nagaland</item>
+        <item>Longleng, Nagaland</item>
+        <item>Mokokchung, Nagaland</item>
+        <item>Mon, Nagaland</item>
+        <item>Noklak, Nagaland</item>
+        <item>Peren, Nagaland</item>
+        <item>Phek, Nagaland</item>
+        <item>Tuensang, Nagaland</item>
+        <item>Wokha, Nagaland</item>
+        <item>Zunheboto, Nagaland</item>
+        <item>Angul, Odisha</item>
+        <item>Balangir, Odisha</item>
+        <item>Balasore, Odisha</item>
+        <item>Bargarh, Odisha</item>
+        <item>Bhadrak, Odisha</item>
+        <item>Boudh, Odisha</item>
+        <item>Cuttack, Odisha</item>
+        <item>Debagarh, Odisha</item>
+        <item>Dhenkanal, Odisha</item>
+        <item>Gajapati, Odisha</item>
+        <item>Ganjam, Odisha</item>
+        <item>Jagatsinghpur, Odisha</item>
+        <item>Jajpur, Odisha</item>
+        <item>Jharsuguda, Odisha</item>
+        <item>Kalahandi, Odisha</item>
+        <item>Kandhamal, Odisha</item>
+        <item>Kendrapara, Odisha</item>
+        <item>Kendujhar, Odisha</item>
+        <item>Khordha, Odisha</item>
+        <item>Koraput, Odisha</item>
+        <item>Malkangiri, Odisha</item>
+        <item>Mayurbhanj, Odisha</item>
+        <item>Nabarangpur, Odisha</item>
+        <item>Nayagarh, Odisha</item>
+        <item>Nuapada, Odisha</item>
+        <item>Puri, Odisha</item>
+        <item>Rayagada, Odisha</item>
+        <item>Sambalpur, Odisha</item>
+        <item>Subarnapur, Odisha</item>
+        <item>Sundergarh, Odisha</item>
+        <item>Karaikal, Puducherry</item>
+        <item>Mahe, Puducherry</item>
+        <item>Puducherry, Puducherry</item>
+        <item>Yanam, Puducherry</item>
+        <item>Amritsar, Punjab</item>
+        <item>Barnala, Punjab</item>
+        <item>Bathinda, Punjab</item>
+        <item>Faridkot, Punjab</item>
+        <item>Fatehgarh Sahib, Punjab</item>
+        <item>Fazilka, Punjab</item>
+        <item>Firozpur, Punjab</item>
+        <item>Gurdaspur, Punjab</item>
+        <item>Hoshiarpur, Punjab</item>
+        <item>Jalandhar, Punjab</item>
+        <item>Kapurthala, Punjab</item>
+        <item>Ludhiana, Punjab</item>
+        <item>Malerkotla, Punjab</item>
+        <item>Mansa, Punjab</item>
+        <item>Moga, Punjab</item>
+        <item>Mohali, Punjab</item>
+        <item>Muktsar, Punjab</item>
+        <item>Pathankot, Punjab</item>
+        <item>Patiala, Punjab</item>
+        <item>Rupnagar, Punjab</item>
+        <item>Sangrur, Punjab</item>
+        <item>Shaheed Bhagat Singh Nagar, Punjab</item>
+        <item>Tarn Taran, Punjab</item>
+        <item>Ajmer, Rajasthan</item>
+        <item>Alwar, Rajasthan</item>
+        <item>Banswara, Rajasthan</item>
+        <item>Baran, Rajasthan</item>
+        <item>Barmer, Rajasthan</item>
+        <item>Bharatpur, Rajasthan</item>
+        <item>Bhilwara, Rajasthan</item>
+        <item>Bikaner, Rajasthan</item>
+        <item>Bundi, Rajasthan</item>
+        <item>Chittorgarh, Rajasthan</item>
+        <item>Churu, Rajasthan</item>
+        <item>Dausa, Rajasthan</item>
+        <item>Dholpur, Rajasthan</item>
+        <item>Dungarpur, Rajasthan</item>
+        <item>Hanumangarh, Rajasthan</item>
+        <item>Jaipur, Rajasthan</item>
+        <item>Jaisalmer, Rajasthan</item>
+        <item>Jalore, Rajasthan</item>
+        <item>Jhalawar, Rajasthan</item>
+        <item>Jhunjhunu, Rajasthan</item>
+        <item>Jodhpur, Rajasthan</item>
+        <item>Karauli, Rajasthan</item>
+        <item>Kota, Rajasthan</item>
+        <item>Nagaur, Rajasthan</item>
+        <item>Pali, Rajasthan</item>
+        <item>Pratapgarh, Rajasthan</item>
+        <item>Rajsamand, Rajasthan</item>
+        <item>Sawai Madhopur, Rajasthan</item>
+        <item>Sikar, Rajasthan</item>
+        <item>Sirohi, Rajasthan</item>
+        <item>Sri Ganganagar, Rajasthan</item>
+        <item>Tonk, Rajasthan</item>
+        <item>Udaipur, Rajasthan</item>
+        <item>East Sikkim, Sikkim</item>
+        <item>North Sikkim, Sikkim</item>
+        <item>South Sikkim, Sikkim</item>
+        <item>West Sikkim, Sikkim</item>
+        <item>Ariyalur, Tamil Nadu</item>
+        <item>Chengalpattu, Tamil Nadu</item>
+        <item>Chennai, Tamil Nadu</item>
+        <item>Coimbatore, Tamil Nadu</item>
+        <item>Cuddalore, Tamil Nadu</item>
+        <item>Dharmapuri, Tamil Nadu</item>
+        <item>Dindigul, Tamil Nadu</item>
+        <item>Erode, Tamil Nadu</item>
+        <item>Kallakurichi, Tamil Nadu</item>
+        <item>Kanchipuram, Tamil Nadu</item>
+        <item>Kanyakumari, Tamil Nadu</item>
+        <item>Karur, Tamil Nadu</item>
+        <item>Krishnagiri, Tamil Nadu</item>
+        <item>Madurai, Tamil Nadu</item>
+        <item>Mayiladuthurai , Tamil Nadu</item>
+        <item>Nagapattinam, Tamil Nadu</item>
+        <item>Namakkal, Tamil Nadu</item>
+        <item>Nilgiris, Tamil Nadu</item>
+        <item>Perambalur, Tamil Nadu</item>
+        <item>Pudukkottai, Tamil Nadu</item>
+        <item>Ramanathapuram, Tamil Nadu</item>
+        <item>Ranipet, Tamil Nadu</item>
+        <item>Salem, Tamil Nadu</item>
+        <item>Sivaganga, Tamil Nadu</item>
+        <item>Tenkasi, Tamil Nadu</item>
+        <item>Thanjavur, Tamil Nadu</item>
+        <item>Theni, Tamil Nadu</item>
+        <item>Thoothukudi, Tamil Nadu</item>
+        <item>Tiruchirappalli, Tamil Nadu</item>
+        <item>Tirunelveli, Tamil Nadu</item>
+        <item>Tirupattur, Tamil Nadu</item>
+        <item>Tiruppur, Tamil Nadu</item>
+        <item>Tiruvallur, Tamil Nadu</item>
+        <item>Tiruvannamalai, Tamil Nadu</item>
+        <item>Tiruvarur, Tamil Nadu</item>
+        <item>Vellore, Tamil Nadu</item>
+        <item>Viluppuram, Tamil Nadu</item>
+        <item>Virudhunagar, Tamil Nadu</item>
+        <item>Adilabad, Telangana</item>
+        <item>Bhadradri Kothagudem, Telangana</item>
+        <item>Hyderabad, Telangana</item>
+        <item>Jagtial, Telangana</item>
+        <item>Jangaon, Telangana</item>
+        <item>Jayashankar, Telangana</item>
+        <item>Jogulamba, Telangana</item>
+        <item>Kamareddy, Telangana</item>
+        <item>Karimnagar, Telangana</item>
+        <item>Khammam, Telangana</item>
+        <item>Komaram Bheem, Telangana</item>
+        <item>Mahabubabad, Telangana</item>
+        <item>Mahbubnagar, Telangana</item>
+        <item>Mancherial, Telangana</item>
+        <item>Medak, Telangana</item>
+        <item>Medchal, Telangana</item>
+        <item>Mulugu, Telangana</item>
+        <item>Nagarkurnool, Telangana</item>
+        <item>Nalgonda, Telangana</item>
+        <item>Narayanpet, Telangana</item>
+        <item>Nirmal, Telangana</item>
+        <item>Nizamabad, Telangana</item>
+        <item>Peddapalli, Telangana</item>
+        <item>Rajanna Sircilla, Telangana</item>
+        <item>Ranga Reddy, Telangana</item>
+        <item>Sangareddy, Telangana</item>
+        <item>Siddipet, Telangana</item>
+        <item>Suryapet, Telangana</item>
+        <item>Vikarabad, Telangana</item>
+        <item>Wanaparthy, Telangana</item>
+        <item>Warangal, Telangana</item>
+        <item>Hanamkonda, Telangana</item>
+        <item>Yadadri Bhuvanagiri, Telangana</item>
+        <item>Dhalai, Tripura</item>
+        <item>Gomati, Tripura</item>
+        <item>Khowai, Tripura</item>
+        <item>North Tripura, Tripura</item>
+        <item>Sepahijala, Tripura</item>
+        <item>South Tripura, Tripura</item>
+        <item>Unakoti, Tripura</item>
+        <item>West Tripura, Tripura</item>
+        <item>Agra, Uttar Pradesh</item>
+        <item>Aligarh, Uttar Pradesh</item>
+        <item>Ambedkar Nagar, Uttar Pradesh</item>
+        <item>Amethi, Uttar Pradesh</item>
+        <item>Amroha, Uttar Pradesh</item>
+        <item>Auraiya, Uttar Pradesh</item>
+        <item>Ayodhya, Uttar Pradesh</item>
+        <item>Azamgarh, Uttar Pradesh</item>
+        <item>Baghpat, Uttar Pradesh</item>
+        <item>Bahraich, Uttar Pradesh</item>
+        <item>Ballia, Uttar Pradesh</item>
+        <item>Balrampur, Uttar Pradesh</item>
+        <item>Banda, Uttar Pradesh</item>
+        <item>Barabanki, Uttar Pradesh</item>
+        <item>Bareilly, Uttar Pradesh</item>
+        <item>Basti, Uttar Pradesh</item>
+        <item>Bhadohi, Uttar Pradesh</item>
+        <item>Bijnor, Uttar Pradesh</item>
+        <item>Budaun, Uttar Pradesh</item>
+        <item>Bulandshahr, Uttar Pradesh</item>
+        <item>Chandauli, Uttar Pradesh</item>
+        <item>Chitrakoot, Uttar Pradesh</item>
+        <item>Deoria, Uttar Pradesh</item>
+        <item>Etah, Uttar Pradesh</item>
+        <item>Etawah, Uttar Pradesh</item>
+        <item>Farrukhabad, Uttar Pradesh</item>
+        <item>Fatehpur, Uttar Pradesh</item>
+        <item>Firozabad, Uttar Pradesh</item>
+        <item>Gautam Buddha Nagar, Uttar Pradesh</item>
+        <item>Ghaziabad, Uttar Pradesh</item>
+        <item>Ghazipur, Uttar Pradesh</item>
+        <item>Gonda, Uttar Pradesh</item>
+        <item>Gorakhpur, Uttar Pradesh</item>
+        <item>Hamirpur, Uttar Pradesh</item>
+        <item>Hapur, Uttar Pradesh</item>
+        <item>Hardoi, Uttar Pradesh</item>
+        <item>Hathras, Uttar Pradesh</item>
+        <item>Jalaun, Uttar Pradesh</item>
+        <item>Jaunpur, Uttar Pradesh</item>
+        <item>Jhansi, Uttar Pradesh</item>
+        <item>Kannauj, Uttar Pradesh</item>
+        <item>Kanpur Dehat, Uttar Pradesh</item>
+        <item>Kanpur Nagar, Uttar Pradesh</item>
+        <item>Kasganj, Uttar Pradesh</item>
+        <item>Kaushambi, Uttar Pradesh</item>
+        <item>Kheri, Uttar Pradesh</item>
+        <item>Kushinagar, Uttar Pradesh</item>
+        <item>Lalitpur, Uttar Pradesh</item>
+        <item>Lucknow, Uttar Pradesh</item>
+        <item>Maharajganj, Uttar Pradesh</item>
+        <item>Mahoba, Uttar Pradesh</item>
+        <item>Mainpuri, Uttar Pradesh</item>
+        <item>Mathura, Uttar Pradesh</item>
+        <item>Mau, Uttar Pradesh</item>
+        <item>Meerut, Uttar Pradesh</item>
+        <item>Mirzapur, Uttar Pradesh</item>
+        <item>Moradabad, Uttar Pradesh</item>
+        <item>Muzaffarnagar, Uttar Pradesh</item>
+        <item>Pilibhit, Uttar Pradesh</item>
+        <item>Pratapgarh, Uttar Pradesh</item>
+        <item>Prayagraj, Uttar Pradesh</item>
+        <item>Raebareli, Uttar Pradesh</item>
+        <item>Rampur, Uttar Pradesh</item>
+        <item>Saharanpur, Uttar Pradesh</item>
+        <item>Sambhal, Uttar Pradesh</item>
+        <item>Sant Kabir Nagar, Uttar Pradesh</item>
+        <item>Shahjahanpur, Uttar Pradesh</item>
+        <item>Shamli, Uttar Pradesh</item>
+        <item>Shravasti, Uttar Pradesh</item>
+        <item>Siddharthnagar, Uttar Pradesh</item>
+        <item>Sitapur, Uttar Pradesh</item>
+        <item>Sonbhadra, Uttar Pradesh</item>
+        <item>Sultanpur, Uttar Pradesh</item>
+        <item>Unnao, Uttar Pradesh</item>
+        <item>Varanasi, Uttar Pradesh</item>
+        <item>Almora, Uttarakhand</item>
+        <item>Bageshwar, Uttarakhand</item>
+        <item>Chamoli, Uttarakhand</item>
+        <item>Champawat, Uttarakhand</item>
+        <item>Dehradun, Uttarakhand</item>
+        <item>Haridwar, Uttarakhand</item>
+        <item>Nainital, Uttarakhand</item>
+        <item>Pauri, Uttarakhand</item>
+        <item>Pithoragarh, Uttarakhand</item>
+        <item>Rudraprayag, Uttarakhand</item>
+        <item>Tehri, Uttarakhand</item>
+        <item>Udham Singh Nagar, Uttarakhand</item>
+        <item>Uttarkashi, Uttarakhand</item>
+        <item>Alipurduar, West Bengal</item>
+        <item>Bankura, West Bengal</item>
+        <item>Birbhum, West Bengal</item>
+        <item>Cooch Behar, West Bengal</item>
+        <item>Dakshin Dinajpur, West Bengal</item>
+        <item>Darjeeling, West Bengal</item>
+        <item>Hooghly, West Bengal</item>
+        <item>Howrah, West Bengal</item>
+        <item>Jalpaiguri, West Bengal</item>
+        <item>Jhargram, West Bengal</item>
+        <item>Kalimpong, West Bengal</item>
+        <item>Kolkata, West Bengal</item>
+        <item>Malda, West Bengal</item>
+        <item>Murshidabad, West Bengal</item>
+        <item>Nadia, West Bengal</item>
+        <item>North 24 Parganas, West Bengal</item>
+        <item>Paschim Bardhaman, West Bengal</item>
+        <item>Paschim Medinipur, West Bengal</item>
+        <item>Purba Bardhaman, West Bengal</item>
+        <item>Purba Medinipur, West Bengal</item>
+        <item>Purulia, West Bengal</item>
+        <item>South 24 Parganas, West Bengal</item>
+        <item>Uttar Dinajpur, West Bengal</item>
+    </string-array>
+</resources>

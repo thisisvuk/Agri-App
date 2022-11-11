@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_to">आपका स्वागत है!</string>
+    <string name="enter_your_number">आपका मोबाईल नंबर डाले</string>
+    <string name="continue1">आगे बढे</string>
+</resources>

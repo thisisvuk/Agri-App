@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/VUK/AndroidStudioProjects/AgriApp/app/src/main/res/drawable/btn_outbg.xml" value="0.2385" />
+        <entry key="..\:/Users/VUK/AndroidStudioProjects/AgriApp/app/src/main/res/drawable/ic_home.xml" value="0.2385" />
+        <entry key="..\:/Users/VUK/AndroidStudioProjects/AgriApp/app/src/main/res/layout/activity_change.xml" value="0.25" />
+        <entry key="..\:/Users/VUK/AndroidStudioProjects/AgriApp/app/src/main/res/layout/activity_chat.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/VUK/AndroidStudioProjects/AgriApp/app/src/main/res/layout/activity_group.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/VUK/AndroidStudioProjects/AgriApp/app/src/main/res/layout/activity_home.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/VUK/AndroidStudioProjects/AgriApp/app/src/main/res/layout/activity_lang.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/VUK/AndroidStudioProjects/AgriApp/app/src/main/res/layout/activity_login.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/VUK/AndroidStudioProjects/AgriApp/app/src/main/res/layout/fragment_crop.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/VUK/AndroidStudioProjects/AgriApp/app/src/main/res/layout/fragment_home.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/VUK/AndroidStudioProjects/AgriApp/app/src/main/res/layout/fragment_profile.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/VUK/AndroidStudioProjects/AgriApp/app/src/main/res/layout/layout_language.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
